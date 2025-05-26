@@ -27,7 +27,9 @@ I'm passionate about mastering cloud-native tools and advanced analytics. My cur
 📫 How to Reach Me
 
 📧 Email me at: rajmesar03@gmail.com
+
 🔗 Linked In: https://www.linkedin.com/in/balachandra-raju-1435b828a/
+
 📁 View my work: https://rajmesar.github.io/portfolio/
 
 😄 Fun Facts
