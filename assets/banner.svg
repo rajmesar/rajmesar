@@ -57,7 +57,7 @@
   <!-- text -->
   <g class="t">
     <text class="role" x="70" y="100">◆ SENIOR DATA ENGINEER · 10+ YEARS</text>
-    <text class="name" x="70" y="170" fill="url(#gold)">Balachandra Raju M</text>
+    <text class="name" x="70" y="170" fill="url(#gold)">Balachandra Raju</text>
     <text class="tag" x="70" y="215">Azure Databricks · Snowflake · PySpark · ADF · Kafka · AWS · Terraform</text>
     <text class="tag" x="70" y="245">Cloud data platforms for Financial Services, Healthcare &amp; Life Sciences</text>
   </g>
