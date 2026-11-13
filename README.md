@@ -107,15 +107,10 @@ Business-analyst portfolio showcasing case studies, dashboards and experience.
 </tr>
 </table>
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajmesar&show_icons=true&hide_border=true&bg_color=1a0710&title_color=E9C46A&icon_color=C9184A&text_color=F2C4CE&ring_color=800020&rank_icon=github" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmesar&layout=compact&hide_border=true&bg_color=1a0710&title_color=E9C46A&text_color=F2C4CE" alt="Top languages"/>
-  <br/>
   <img src="https://streak-stats.demolab.com?user=rajmesar&hide_border=true&background=1A0710&ring=800020&fire=C9184A&currStreakNum=E9C46A&sideNums=F2C4CE&currStreakLabel=E9C46A&sideLabels=F2C4CE&dates=A4243B&stroke=4A0E1F" alt="GitHub streak" width="70%"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajmesar&bg_color=1a0710&color=F2C4CE&line=C9184A&point=E9C46A&area=true&area_color=800020&hide_border=true&title_color=E9C46A" alt="Contribution graph" width="100%"/>
 </div>
 
 ## 🐍 Contribution Heatmap
