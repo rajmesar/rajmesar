@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Balachandra Raju M — Senior Data Engineer" width="100%"/>
+<img src="./assets/banner.svg" alt="Balachandra Raju — Senior Data Engineer" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=E9C46A&center=true&vCenter=true&width=760&lines=10%2B+years+building+enterprise+data+platforms;Processing+20%2B+TB+of+financial+data;Medallion+Lakehouses+on+Databricks+%2B+Delta+Lake;100%2B+pipelines+migrated+to+Azure+%26+Snowflake;99.95%25+platform+availability" alt="Typing SVG" /></a>
 
 <p>
-  <a href="https://www.linkedin.com/in/balachandra-raju-1435b828a/"><img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=F2C4CE" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/SnowPro_Core-Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=800020" alt="SnowPro Core Certified"/>
+  <br/>
+  <a href="https://www.linkedin.com/in/balachandra-raju-data-engineer/"><img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=F2C4CE" alt="LinkedIn"/></a>
   <a href="mailto:rajmesar03@gmail.com"><img src="https://img.shields.io/badge/Email-800020?style=for-the-badge&logo=gmail&logoColor=F2C4CE" alt="Email"/></a>
   <a href="https://rajmesar.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-800020?style=for-the-badge&logo=githubpages&logoColor=F2C4CE" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=rajmesar&color=800020&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -18,13 +20,14 @@
 ## 🍷 About Me
 
 ```yaml
-name:       Balachandra Raju M
+name:       Balachandra (Meesaraganda) Raju
 role:       Senior Data Engineer @ The Hartford Insurance Company
 experience: 10+ years — Data Engineering, Data Warehousing, ETL/ELT, Cloud Analytics, Big Data
 domains:    [Financial Services, Healthcare, Life Sciences, Semiconductor]
 platforms:  [Azure Databricks, Azure Data Factory, Synapse, Microsoft Fabric, Snowflake, AWS Glue, EMR, Redshift]
 focus:      Lakehouse architecture · real-time pipelines · cloud migration · data governance
 compliance: [FINRA, SEC, SOC 2, GDPR, HIPAA, GxP]
+certified:  SnowPro Core Certification (Snowflake)
 education:  M.S. Business Analytics, University of New Haven
 ```
 
@@ -82,6 +85,7 @@ I design and modernize cloud-native data platforms — from Medallion Lakehouses
   <b>Languages & Databases</b><br/>
   <img src="https://img.shields.io/badge/Python-a4243b?style=flat-square&logo=python&logoColor=F2C4CE"/>
   <img src="https://img.shields.io/badge/SQL-a4243b?style=flat-square&logo=postgresql&logoColor=F2C4CE"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-a4243b?style=flat-square&logo=oracle&logoColor=F2C4CE"/>
   <img src="https://img.shields.io/badge/Scala-a4243b?style=flat-square&logo=scala&logoColor=F2C4CE"/>
   <img src="https://img.shields.io/badge/SQL_Server-a4243b?style=flat-square&logo=microsoftsqlserver&logoColor=F2C4CE"/>
   <img src="https://img.shields.io/badge/Oracle-a4243b?style=flat-square&logo=oracle&logoColor=F2C4CE"/>
