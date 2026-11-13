@@ -56,10 +56,10 @@
 
   <!-- text -->
   <g class="t">
-    <text class="role" x="70" y="100">◆ SENIOR DATA ENGINEER · BUSINESS ANALYST</text>
+    <text class="role" x="70" y="100">◆ SENIOR DATA ENGINEER · 10+ YEARS</text>
     <text class="name" x="70" y="170" fill="url(#gold)">Balachandra Raju M</text>
-    <text class="tag" x="70" y="215">Snowflake · Databricks · Azure Data Factory · Power BI · Python · SQL</text>
-    <text class="tag" x="70" y="245">Turning raw data into decisions across Insurance, Banking &amp; Finance</text>
+    <text class="tag" x="70" y="215">Azure Databricks · Snowflake · PySpark · ADF · Kafka · AWS · Terraform</text>
+    <text class="tag" x="70" y="245">Cloud data platforms for Financial Services, Healthcare &amp; Life Sciences</text>
   </g>
   <circle class="dot" cx="76"  cy="282" r="4" fill="#e9c46a"/>
   <circle class="dot" cx="92"  cy="282" r="4" fill="#e9c46a" style="animation-delay:.4s"/>
